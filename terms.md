@@ -12,7 +12,7 @@ _Last updated: December 2024_
 By downloading, installing, or using **SpinDine** (“the App”), you agree to be bound by these Terms of Service (“Terms”).  
 If you do **not** agree to these Terms, do not use the App.
 
-These Terms constitute a legal agreement between you and **Silex R** (“Company,” “we,” “us,” or “our”).
+These Terms constitute a legal agreement between you and **Silex Research** (“Company,” “we,” “us,” or “our”).
 
 ---
 
