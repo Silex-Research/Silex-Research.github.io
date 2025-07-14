@@ -1,3 +1,9 @@
+---
+title: Privacy Policy
+permalink: /privacy.html
+layout: page
+---
+
 # Privacy Policy for SpinDine
 
 **Last updated: December 2024**
