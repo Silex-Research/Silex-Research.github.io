@@ -6,7 +6,7 @@ layout: page
 
 # Need Help?
 
-**Email:** <support@spindine.com> &nbsp;·&nbsp; *Replies within 1 business day*  
+**Email:** <spindinesupport@silexr.com> &nbsp;·&nbsp; *Replies within 1 business day*  
 **In-App:** Settings ▶ About ▶ **Contact Us**
 
 ---
